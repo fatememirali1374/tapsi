@@ -1,0 +1,19 @@
+/*font family*/
+@font-face {
+    font-family: "yekan";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/assets/fonts/Yekan.woff") format("woff");
+  }
+  @font-face {
+    font-family: "yekan";
+    font-weight: 700;
+    font-style: normal;
+    src: url("/assets/fonts/BYekan.woff") format("woff");
+  }
+  
+
+  /*body*/
+  body, button{
+    font-family: "yekan";
+  }

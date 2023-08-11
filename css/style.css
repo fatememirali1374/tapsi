@@ -1045,32 +1045,78 @@ background-size: contain;
 }
 
 .css-sprite-6 {
-  background-position-x: 150px;
+  background-position-x: 100px;
   background-position-y: 0px;
 }
 
 .css-sprite-5 {
+  background-position-x: 150px;
+  background-position-y: 0px;
+  width: 50px;
+}
+
+.css-sprite-4 {
   background-position-x: 250px;
   background-position-y: 0px;
 }
 
-.css-sprite-4 {
+.css-sprite-3 {
   background-position-x: 350px;
   background-position-y: 0px;
 }
 
-.css-sprite-3 {
+.css-sprite-2 {
   background-position-x: 450px;
   background-position-y: 0px;
 }
 
-.css-sprite-2 {
+.css-sprite-1 {
   background-position-x: 550px;
   background-position-y: 0px;
 }
 
-.css-sprite-1 {
-  background-position-x: 650px;
+
+
+.css-sprite-big {
+  background: url("/assets/images/css-sprite-combined.png");
+  width: 400px;
+  height: 200px;
+  background-size: 2600px;
+}
+
+.css-sprite-7-big {
+  background-position-x: 0px;
+  background-position-y: 0px;
+}
+
+.css-sprite-6-big {
+  background-position-x: 400px;
+  background-position-y: 0px;
+}
+
+.css-sprite-5-big {
+  background-position-x: 600px;
+  background-position-y: 0px;
+  width: 200px;
+}
+
+.css-sprite-4-big {
+  background-position-x: 1000px;
+  background-position-y: 0px;
+}
+
+.css-sprite-3-big {
+  background-position-x: 1400px;
+  background-position-y: 0px;
+}
+
+.css-sprite-2-big {
+  background-position-x: 1800px;
+  background-position-y: 0px;
+}
+
+.css-sprite-1-big {
+  background-position-x: 2200px;
   background-position-y: 0px;
 }
 
